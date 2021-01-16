@@ -1,12 +1,12 @@
-# Dracula for [X](http://link-to-x.com)
+# Dracula for [Ditto](https://ditto-cp.sourceforge.io/)
 
-> A dark theme for [X](http://link-to-x.com).
+> A dark Dracula theme for [Ditto](https://ditto-cp.sourceforge.io/).
 
 ![Screenshot](./screenshot.png)
 
 ## Install
 
-All instructions can be found at [draculatheme.com/x](https://draculatheme.com/x).
+All instructions can be found at [draculatheme.com/Ditto](https://draculatheme.com/Ditto).
 
 ## Team
 
