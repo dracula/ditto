@@ -2,7 +2,7 @@
 
 > A dark Dracula theme for [Ditto](https://ditto-cp.sourceforge.io/).
 
-![Screenshot](./screenshot.png)
+![Screenshot](./Ditto.png)
 
 ## Install
 
