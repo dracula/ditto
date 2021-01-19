@@ -1,0 +1,47 @@
+<Ditto_Theme_File Version = "3" Author = "Diego F" Notes = "Dracula Theme">
+
+	<CaptionLeft>RGB(68, 71, 90)</CaptionLeft>
+	<CaptionRight>RGB(80, 250, 123)</CaptionRight>	
+	
+	<CaptionLeftTopMost>RGB(68, 71, 90)</CaptionLeftTopMost>
+	<CaptionRightTopMost>RGB(255, 184, 108)</CaptionRightTopMost>
+	
+	<CaptionLeftNotConnected>RGB(255, 85, 85)</CaptionLeftNotConnected>
+	<CaptionRightNotConnected>RGB(255, 184, 108)</CaptionRightNotConnected>
+	
+	<CaptionTextColor>RGB(255, 121, 198)</CaptionTextColor>
+	
+	<ListBoxOddRowsBG>RGB(68, 71, 90)</ListBoxOddRowsBG>
+	<ListBoxEvenRowsBG>RGB(40, 42, 54)</ListBoxEvenRowsBG>
+	
+	<ListBoxOddRowsText>RGB(248, 248, 242)</ListBoxOddRowsText>
+	<ListBoxEvenRowsText>RGB(248, 248, 242)</ListBoxEvenRowsText>
+	
+	<ListBoxSelectedBG>RGB(98, 114, 164)</ListBoxSelectedBG>
+	<ListBoxSelectedNoFocusBG>RGB(98, 114, 164)</ListBoxSelectedNoFocusBG>
+	
+	<ListBoxSelectedText>RGB(139, 233, 253)</ListBoxSelectedText>
+	<ListBoxSelectedNoFocusText>RGB(139, 233, 253)</ListBoxSelectedNoFocusText>	
+	
+	<Border>RGB(98, 114, 164)</Border>
+	<BorderTopMost>RGB(139, 233, 253)</BorderTopMost>
+	<BorderNotConnected>RGB(255, 85, 85)</BorderNotConnected>	
+	
+	<GroupTreeBG>RGB(68, 71, 90)</GroupTreeBG>
+	<GroupTreeText>RGB(255, 121, 198)</GroupTreeText>
+	
+	<CaptionSize>20</CaptionSize>
+	<CaptionFontSize>18</CaptionFontSize>
+
+	<DescriptionWindowBG>RGB(40, 42, 54)</DescriptionWindowBG>
+	<DescriptionWindowText>RGB(248, 248, 242)</DescriptionWindowText>
+	
+	<MainWindowBG>RGB(40, 42, 54)</MainWindowBG>
+	<ClipPastedColor>RGB(255, 184, 108)</ClipPastedColor>
+
+	<SearchTextBoxFocusBG>RGB(40, 42, 54)</SearchTextBoxFocusBG>
+	<SearchTextBoxFocusText>RGB(98, 114, 164)</SearchTextBoxFocusText>
+	<SearchTextBoxFocusBorder>RGB(98, 114, 164)</SearchTextBoxFocusBorder>
+	<SearchTextHighlight>RGB(255, 184, 108)</SearchTextHighlight>
+
+</Ditto_Theme_File>
