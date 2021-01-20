@@ -1,4 +1,4 @@
-### [X](http://link-to-x.com)
+### [Ditto](https://ditto-cp.sourceforge.io/)
 
 #### Install using Git
 
@@ -9,9 +9,10 @@ If you are a git user, you can install the theme and keep up to date by cloning 
 #### Install manually
 
 Download using the [GitHub .zip download](https://github.com/dracula/template/archive/master.zip) option and unzip them.
+Copy or move Dracula.xml to Themes folder, located at C:\Program Files\Ditto\Themes or inside the Themes folder if you use the portable version.
 
 #### Activating theme
 
-1. Do this
-2. Then that
-3. Boom! It's working
+1. Open Ditto with its global activation hotkey (Ctrl + `) and go to its settings (click on the menu icon of the lower right corner and click on Options.)
+2. Within the General tab, locate Themes and select the Dracula theme.
+3. Finally, click on OK.
