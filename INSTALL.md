@@ -13,6 +13,6 @@ Copy or move Dracula.xml to Themes folder, located at C:\Program Files\Ditto\The
 
 #### Activating theme
 
-1. Open Ditto by clicking its icon in the system tray or by pressing its Hot Key which defaults to Ctrl + ` – i.e. hold down Ctrl and press the back-quote (tilde ~) key and go to its settings (click on the menu icon of the lower right corner and click on Options.)
+1. Open Ditto by clicking its icon in the system tray or by pressing its Hot Key which defaults to Ctrl + ` – i.e. hold down Ctrl and press the back-quote (tilde ~) key, and go to its settings (click on the menu icon ⋯ of the lower right corner and click on Options.)
 2. Within the General tab, locate Themes and select the Dracula theme.
 3. Finally, click on OK.
