@@ -12,9 +12,9 @@ All instructions can be found at [draculatheme.com/Ditto](https://draculatheme.c
 
 This theme is maintained by the following person(s) and a bunch of [awesome contributors](https://github.com/dracula/template/graphs/contributors).
 
-[![Zeno Rocha](https://github.com/zenorocha.png?size=100)](https://github.com/zenorocha) |
---- |
-[Zeno Rocha](https://github.com/zenorocha) |
+[![Zeno Rocha](https://github.com/zenorocha.png?size=100)](https://github.com/zenorocha) | [![Dhyfer1](https://avatars3.githubusercontent.com/u/50301201?v=4&s=100)](https://github.com/Dhyfer1)
+--- | ---
+[Zeno Rocha](https://github.com/zenorocha) | [Dhyfer1](https://github.com/Dhyfer1)
 
 ## License
 
